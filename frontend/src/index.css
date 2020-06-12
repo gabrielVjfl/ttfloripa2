@@ -1,0 +1,203 @@
+
+#background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+ 
+background-image: url('../src/img/social4.jpg');
+background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  opacity: 0.9;
+
+}
+nav {
+  top: 0;
+  left: 0;
+  background: black;
+  height: 90px;
+  border-bottom: 4px solid yellow;
+ position: fixed;
+
+}
+
+#home {
+  transition-duration: 0.7s;
+  border-bottom: 3px solid purple;
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#home:hover {
+  color: purple;
+  transition-duration: 0.7s;
+  border-bottom: 3px solid blue;
+}
+#planos {
+  transition-duration: 0.7s;
+  border-bottom: 3px solid blue;
+  margin-left: 15px;
+  font-size: 20px;
+  color: white;
+  font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#planos:hover {
+  color:  blue;
+  transition-duration: 0.7s;
+  border-bottom: 3px solid purple;
+}
+#nossocontato {
+  transition-duration: 0.7s;
+  border-bottom: 3px solid purple;
+  color: white;
+  margin-left: 15px;
+  font-size: 20px;
+  font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#nossocontato:hover {
+  color: purple;
+  transition-duration: 0.7s;
+  border-bottom: 3px solid blue;
+}
+#sobrenos {
+  transition-duration: 0.7s;
+  border-bottom: 3px solid blue;
+  margin-left: 15px;
+  font-size: 20px;
+  color: white;
+  font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#sobrenos:hover {
+  color:  blue;
+  transition-duration: 0.7s;
+  border-bottom: 3px solid purple;
+}
+#trabalhosfeitos {
+  transition-duration: 0.7s;
+  border-bottom: 3px solid purple;
+  color: white;
+  margin-left: 15px;
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#trabalhosfeitos:hover {
+  color: purple;
+  transition-duration: 0.7s;
+  border-bottom: 3px solid blue;
+}
+#linkedin {
+  margin-left: 25px;
+  margin-top: 14px;
+  cursor: pointer;
+}
+#instagram {
+  margin-left: 25px;
+  margin-top: 14px;
+  cursor: pointer;
+}
+#facebook {
+  margin-left: 800px;
+  margin-top: 14px;
+  cursor: pointer;
+}
+.card {
+width: 500px;
+ margin-left: 1250px;
+ margin-top: 50px;
+ 
+
+}
+.card-body {
+border: 4px solid rgb(0, 183, 255);
+border-radius: 5px;
+
+}
+label {
+ font-size: 21px;
+}
+#inter {
+  color: blue;
+  font-size: 23px;
+}
+#btn {
+  width: 180px;
+  height: 60px;
+  font-size: 22px;
+  background-color: black;
+  border: 4px solid rgb(204, 7, 204);
+  transition-duration: 0.7s;
+  color: white;
+}
+#btn:hover {
+  background-color: rgb(0, 113, 128);
+  color: white;
+  border: 4px solid orange;
+  transition-duration: 0.7s;
+}
+
+#template {
+  width: 850px;
+  height: 600px;
+ 
+  background-color: black;
+  opacity: 0.8;
+  margin-top:  -680px;
+
+
+  border-bottom: 40px;
+}
+#titulo {
+  color: rgb(247, 223, 7);
+font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+  
+}
+#subtitulo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+
+
+}
+#titulo2 {
+  margin-top: -20px;
+    color: rgb(247, 223, 7);
+font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+#subtitulo2 {
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#template2 {
+  width: 900px;
+  height: 380px;
+  background-color: rgb(241, 218, 5);
+  width: 1800px;
+  opacity: 0.99 ;
+  margin-top: 160px;
+ margin-left: 40px;
+
+}
+
+#template3 {
+  width: 900px;
+  height: 290px;
+  background-color: black;
+  width: 1800px;
+  opacity: 0.99 ;
+  margin-top: 160px;
+ margin-left: 40px;
+}
+
